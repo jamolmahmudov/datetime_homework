@@ -1,3 +1,9 @@
+# Python Datetime Homework
+
+This repository contains Python programming exercises related to datetime manipulation. The tasks are designed to help you practice and improve your skills in working with dates and times using Python.
+
+## Tasks
+
 Task 1:
 Write a Python program that displays the current date and time.
 
@@ -27,3 +33,5 @@ Write a Python program that calculates the difference between two given dates. P
 
 Task 10:
 Write a Python program that converts a given timestamp to a readable date and time format. Prompt the user to enter a timestamp (number of seconds since the Unix epoch) and display the corresponding date and time.
+
+Feel free to fork this repository and solve the tasks. Make sure to write clean and well-documented code. Happy coding!
